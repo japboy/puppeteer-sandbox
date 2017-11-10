@@ -1,0 +1,66 @@
+[
+  {
+    "name": "top",
+    "url": "https://restaurant.ikyu.com/"
+  },
+  {
+    "name": "search",
+    "url": "https://restaurant.ikyu.com/rsMain/rsSrchPlan.asp?pndt=1&rac1=03001&xact=1&fact=1&mode=tag"
+  },
+  {
+    "name": "tag-area-top",
+    "url": "https://restaurant.ikyu.com/area/"
+  },
+  {
+    "name": "tag-area-tokyo",
+    "url": "https://restaurant.ikyu.com/area/tokyo/"
+  },
+  {
+    "name": "tag-t-genre-top",
+    "url": "https://restaurant.ikyu.com/t-genre/"
+  },
+  {
+    "name": "tag-t-genre-6",
+    "url": "https://restaurant.ikyu.com/t-genre/t-genre6/"
+  },
+  {
+    "name": "tag-t-food-top",
+    "url": "https://restaurant.ikyu.com/t-food/"
+  },
+  {
+    "name": "tag-t-food-14",
+    "url": "https://restaurant.ikyu.com/t-food/t-food14/"
+  },
+  {
+    "name": "tag-t-drink-top",
+    "url": "https://restaurant.ikyu.com/t-drink/"
+  },
+  {
+    "name": "tag-t-drink-27",
+    "url": "https://restaurant.ikyu.com/t-drink/t-drink27/"
+  },
+  {
+    "name": "tag-t-scene-top",
+    "url": "https://restaurant.ikyu.com/t-scene/"
+  },
+  {
+    "name": "tag-t-scene-365",
+    "url": "https://restaurant.ikyu.com/t-scene/t-scene365/"
+  },
+  {
+    "name": "hotel-top",
+    "url": "https://restaurant.ikyu.com/hotelrest/"
+  },
+  {
+    "name": "hotel-tokyo",
+    "url": "https://restaurant.ikyu.com/hotelrest/tokyo/"
+  },
+  {
+    "name": "guide",
+    "url": "https://restaurant.ikyu.com/100905/"
+  },
+  {
+    "name": "plan",
+    "url": "https://restaurant.ikyu.com/100905/plan10427730/"
+  }
+]
